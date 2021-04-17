@@ -31,4 +31,3 @@ pipeline {
         }
     }
 }
- http://localhost:9000//api/ce/task?id=AXjh6ygVHrQHTbpAIBA8:
